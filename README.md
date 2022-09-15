@@ -140,7 +140,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
  <sub><b>Claudio Holanda</b></sub></a> <a href="https://app.rocketseat.com.br/me/macindex" title="Rocketseat">🚀</a>
  <br />
 
-[![Linkedin Badge](https://img.shields.io/badge/-%20Becali-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/claudio-holanda/)](https://www.linkedin.com/in/claudio-holanda/) 
+[![Linkedin Badge](https://img.shields.io/badge/-%20Claudio-Holanda-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/claudio-holanda/)](https://www.linkedin.com/in/claudio-holanda/) 
 [![Gmail Badge](https://img.shields.io/badge/-conteudoch@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:conteudoch@gmail.com)](mailto:conteudoch@gmail.com)
 
 ---
