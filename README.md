@@ -135,7 +135,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 ## 🦸 Autor
 
 <a href="https://app.rocketseat.com.br/me/macindex">
- <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/54561377?v=4" width="100px;" alt=""/>
+ <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/7672997?v=4" width="100px;" alt=""/>
  <br />
  <sub><b>Claudio Holanda</b></sub></a> <a href="https://app.rocketseat.com.br/me/macindex" title="Rocketseat">🚀</a>
  <br />
