@@ -20,7 +20,7 @@
   </a>
 
   <a href="https://rocketseat.com.br">
-    <img alt="Feito pela Rocketseat" src="https://img.shields.io/badge/feito%20por-Elian%20Becali-%237519C1?style=flat-square&">
+    <img alt="Feito pela Rocketseat" src="https://img.shields.io/badge/feito%20por-%20Becali-%237519C1?style=flat-square&">
   </a>
   
  
@@ -140,7 +140,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
  <sub><b>Claudio Holanda</b></sub></a> <a href="https://app.rocketseat.com.br/me/macindex" title="Rocketseat">🚀</a>
  <br />
 
-[![Linkedin Badge](https://img.shields.io/badge/-Elian%20Becali-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/claudio-holanda/)](https://www.linkedin.com/in/claudio-holanda/) 
+[![Linkedin Badge](https://img.shields.io/badge/-%20Becali-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/claudio-holanda/)](https://www.linkedin.com/in/claudio-holanda/) 
 [![Gmail Badge](https://img.shields.io/badge/-conteudoch@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:conteudoch@gmail.com)](mailto:conteudoch@gmail.com)
 
 ---
