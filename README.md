@@ -20,7 +20,7 @@
   </a>
 
   <a href="https://rocketseat.com.br">
-    <img alt="Feito pela Rocketseat" src="https://img.shields.io/badge/feito%20por-%20Becali-%237519C1?style=flat-square&">
+    <img alt="Feito pela Rocketseat" src="https://img.shields.io/badge/feito%20por-%20BClaudio-Holanda-%237519C1?style=flat-square&">
   </a>
   
  
